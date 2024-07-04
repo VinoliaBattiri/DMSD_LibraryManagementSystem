@@ -1,6 +1,7 @@
 # DMSD_LibraryManagementSystem
 
 ▪ Developed a menu driven web based application system for the public library DB.
+
 ▪ Created database with tables including primary keys, secondary keys and foreign keys which could be run with different SQL commands.
 ▪ Used PHP for server-side logic, HTML for structure, CSS for styling, and JavaScript for interactivity, along with SQL queries for database interactions.
 ▪ Spearheaded the development of a Library Management System, focusing on book borrowing/returning processes, user management, and real-time content updates to improve library operations.
